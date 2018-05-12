@@ -4,7 +4,7 @@ This repository contains examples of the classic first program for any language;
 
 Each folder contains instructions and code for the language corresponding to the folder name.
 
-Do you know a language which isn't in the repo?  Help us out by adding it!
+Do you know a language that isn't in the repo?  Help us out by adding it!
 
 ## Contribution Instructions
 * Fork this repository and clone it to your local machine (https://help.github.com/articles/fork-a-repo/)
