@@ -1,5 +1,16 @@
 # Visual Basic (VB) .NET
 
+```vbnet
+Module Module1
+
+    Sub Main()
+        Console.WriteLine("Hello, World!")
+        Console.ReadLine()
+    End Sub
+
+End Module
+```
+
 ## Environment Setup
 
 Download Visual Studio Community Edition from the official site, here: https://www.visualstudio.com/
