@@ -1,5 +1,13 @@
 # Java
 
+```java
+public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!");
+    }
+}
+```
+
 ## Environment Setup
 
 Download the Java SDK for your platform from the official site, here: http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
