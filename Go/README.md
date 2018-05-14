@@ -1,5 +1,15 @@
 # Go
 
+```go
+package main
+
+import "fmt"
+
+func main() {
+	fmt.Printf("hello, world!\n")
+}
+```
+
 ## Environment Setup
 
 Download the Go binaries for your platform from the official site, here: https://golang.org/dl/
