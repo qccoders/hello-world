@@ -1,5 +1,15 @@
 # F# .NET
 
+```f#
+open System
+
+[<EntryPoint>]
+let main argv =
+    printfn "Hello World from F#!"
+    Console.ReadLine() |> ignore
+    0 // return an integer exit code
+```
+
 ## Environment Setup
 
 Download Visual Studio Community Edition from the official site, here: https://www.visualstudio.com/
