@@ -1,5 +1,13 @@
 # Haskell
 
+```haskell
+module Main where
+
+main :: IO ()
+main = do
+  putStrLn "hello world"
+```
+
 ## Environment Setup
 Download and Install Stack: https://docs.haskellstackorg/en/stable/README/
 
@@ -17,13 +25,4 @@ $ stack build
 
 ```
 $ stack exec -- hello-world
-```
-
-Main.hs:  
-```haskell
-module Main where
-
-main :: IO ()
-main = do
-  putStrLn "hello world"
 ```
