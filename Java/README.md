@@ -22,4 +22,4 @@ From a command line, `cd` into the directory containing your Java code.  Execute
 
 ## Running
 
-Run the class file from a command line using `java <yourfile>.class`.
+Run the class file from a command line using `java <yourfile>` (don't include the .class extension).
