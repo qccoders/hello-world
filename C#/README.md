@@ -1,5 +1,25 @@
 # C# .NET
 
+```c#
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace HelloWorld
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello, World!");
+            Console.ReadLine();
+        }
+    }
+}
+```
+
 ## Environment Setup
 
 Download Visual Studio Community Edition from the official site, here: https://www.visualstudio.com/
