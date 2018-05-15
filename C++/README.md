@@ -12,7 +12,7 @@ int main(int argc, char* argv[]) {
 
 ## Environment Setup
 
-As it turns out, obtaining a C compiler on Windows is tricky.  You can build with Visual Studio, or you can download Cygwin which will have gcc as an optional package.
+As it turns out, obtaining a C++ compiler on Windows is tricky.  You can build with Visual Studio, or you can download Cygwin which will have g++ as an optional package.
 
 This exercise was done on Linux for brevity. The package "g++" is the easiest way to compile, on openSUSE you can install it with `sudo zypper install gcc-c++`.
 
