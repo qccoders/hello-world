@@ -14,7 +14,7 @@ defmodule HelloWorld.Print do
 		receive do
 			{:msg, contents} -> IO.puts contents
 		end
-  end
+  	end
 end
 ```
 
