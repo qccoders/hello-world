@@ -9,7 +9,7 @@ main = do
 ```
 
 ## Environment Setup
-Download and Install Stack: https://docs.haskellstackorg/en/stable/README/
+Download and Install Stack: https://docs.haskellstack.org/en/stable/README/
 
 Make sure stack is on your path.
 
