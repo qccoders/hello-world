@@ -1,3 +1,3 @@
-toPrint = input("what do you want to say?")
+toPrint = "Hello, World!"
 print (toPrint)
 
