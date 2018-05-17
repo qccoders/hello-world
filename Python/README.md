@@ -1,5 +1,20 @@
-* Environment Setup - Download python3 from https://www.python.org/downloads/ 
+# Python
+```
+toPrint = "Hello, World!"
+print (toPrint)
+
+```
 
 
-* Building/Compiling - Python is a interpreted language. so there is no compiling needed.
-* Running - run python3 from the terminal or use a IDE
+
+## Environment Setup
+
+Download python3 from https://www.python.org/downloads/. 
+
+## Building/Compiling
+
+Python is an interpreted language. so there is no compiling needed.
+
+## Running
+
+run python3 from the terminal or use a IDE
